@@ -8,7 +8,6 @@ data = "Data123#Science!"
 clean_data = ""
 
 for ch in data:
-    for ch in data:
      if ch.isalpha():
         clean_data += ch
 
