@@ -9,7 +9,7 @@ clean_data = ""
 
 for ch in data:
     for ch in data:
-    if ch.isalpha():
+     if ch.isalpha():
         clean_data += ch
 
 print("Clean String:", clean_data)
