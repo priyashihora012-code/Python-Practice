@@ -5,7 +5,7 @@ print(text.endswith("world"))
 
 data = "Data123#Science!"
 
-clean_data = ""
+clean_data = 
 
 for ch in data:
      if ch.isalpha():
